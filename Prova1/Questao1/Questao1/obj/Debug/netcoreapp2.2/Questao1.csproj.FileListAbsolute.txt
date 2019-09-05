@@ -1,0 +1,11 @@
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\bin\Debug\netcoreapp2.2\Questao1.deps.json
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\bin\Debug\netcoreapp2.2\Questao1.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\bin\Debug\netcoreapp2.2\Questao1.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\bin\Debug\netcoreapp2.2\Questao1.dll
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\bin\Debug\netcoreapp2.2\Questao1.pdb
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\obj\Debug\netcoreapp2.2\Questao1.csprojAssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\obj\Debug\netcoreapp2.2\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\obj\Debug\netcoreapp2.2\Questao1.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\obj\Debug\netcoreapp2.2\Questao1.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\obj\Debug\netcoreapp2.2\Questao1.dll
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao1\Questao1\obj\Debug\netcoreapp2.2\Questao1.pdb

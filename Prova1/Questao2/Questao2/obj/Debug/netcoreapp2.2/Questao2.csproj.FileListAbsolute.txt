@@ -1,0 +1,11 @@
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\obj\Debug\netcoreapp2.2\Questao2.csprojAssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\obj\Debug\netcoreapp2.2\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\obj\Debug\netcoreapp2.2\Questao2.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\obj\Debug\netcoreapp2.2\Questao2.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\bin\Debug\netcoreapp2.2\Questao2.deps.json
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\bin\Debug\netcoreapp2.2\Questao2.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\bin\Debug\netcoreapp2.2\Questao2.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\bin\Debug\netcoreapp2.2\Questao2.dll
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\bin\Debug\netcoreapp2.2\Questao2.pdb
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\obj\Debug\netcoreapp2.2\Questao2.dll
+C:\Users\cliente\Desktop\Programação\Exercicios algoritimo\Ivori_It\Questao2\Questao2\Questao2\obj\Debug\netcoreapp2.2\Questao2.pdb
